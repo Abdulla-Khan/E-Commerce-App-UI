@@ -1,7 +1,3 @@
 # nike_store
 
-![app](assets/images/thumb5.png?raw=true)
-![app](assets/images/thumb4.png?raw=true)
-![app](assets/images/thumb3.png?raw=true)
-![app](assets/images/thumb2.png?raw=true)
-![app](assets/images/thumb1.png?raw=true)
+Flutter application made using Material Package thatthat login page, 2 products page and details page for those products.
