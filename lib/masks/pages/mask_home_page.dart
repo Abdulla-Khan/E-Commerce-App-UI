@@ -219,7 +219,7 @@ class _MaskPageState extends State<MaskPage> {
         child: BottomNavigationBar(
           selectedItemColor: AppColors.greenColor,
           unselectedItemColor: Colors.black26,
-          currentIndex: 1,
+          currentIndex: 2,
           type: BottomNavigationBarType.fixed,
           showSelectedLabels: false,
           showUnselectedLabels: false,

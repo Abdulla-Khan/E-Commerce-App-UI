@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ABDULLAH KHAN\\Desktop\\Flutter\\nike_store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "F:\\Flutter\\nike_store\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ABDULLAH KHAN\\Desktop\\Flutter\\nike_store\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "F:\\Flutter\\nike_store\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

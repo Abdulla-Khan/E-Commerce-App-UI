@@ -215,6 +215,7 @@ class _ShoePageState extends State<ShoePage> {
           ],
         ),
         child: BottomNavigationBar(
+          currentIndex: 1,
           selectedItemColor: AppColors.greenColor,
           unselectedItemColor: Colors.black26,
           type: BottomNavigationBarType.fixed,
